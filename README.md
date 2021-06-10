@@ -1,6 +1,7 @@
 # LiberTEM projects
 
 - LiberTEM: the main project [docs](https://libertem.github.io/LiberTEM/) [repo](https://github.com/liberTEM/LiberTEM/)
+- LiberTEM-live: Live processing support [docs](https://libertem.github.io/LiberTEM-live/) [repo](https://github.com/LiberTEM/LiberTEM-live/)
 - LiberTEM-blobfinder: correlation and refinement library [docs](https://libertem.github.io/LiberTEM-blobfinder/) [repo](https://github.com/liberTEM/LiberTEM-blobfinder)
 - LiberTEM-holo: Off-axis electron holography [repo](https://github.com/liberTEM/LiberTEM-holo/)
 
