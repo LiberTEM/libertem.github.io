@@ -39,4 +39,4 @@
 - [Gitter chat](https://gitter.im/LiberTEM/Lobby)
 - Dieter Weber <d.weber@fz-juelich.de>
 - Alexander Clausen <a.clausen@fz-juelich.de>
-- GitHub issue trackers, see repo links avove!
+- GitHub issue trackers, see repo links above!
