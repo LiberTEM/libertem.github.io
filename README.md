@@ -1,5 +1,3 @@
-<a href="https://libertem.github.io/LiberTEM/udf.html#how-udfs-works" style="float:right"><img src="https://user-images.githubusercontent.com/25689052/130770293-d1309c02-9b5f-4767-863e-66ac3b1fa6da.png" alt="udf-diagram" width="200"/><br><em>How LiberTEM user-defined functions work</em></a>
-
 # LiberTEM projects
 
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/) [![LiberTEM](https://img.shields.io/github/stars/LiberTEM/LiberTEM?label=LiberTEM&style=social)](https://github.com/liberTEM/LiberTEM/) **LiberTEM** is an open source platform for high-throughput distributed processing of large-scale binary data sets and live data streams using a modified MapReduce programming model.
