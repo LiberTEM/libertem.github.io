@@ -2,8 +2,9 @@
 
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/) [![LiberTEM](https://img.shields.io/github/stars/LiberTEM/LiberTEM?label=LiberTEM&style=social)](https://github.com/liberTEM/LiberTEM/) **LiberTEM** is an open source platform for high-throughput distributed processing of large-scale binary data sets and live data streams using a modified MapReduce programming model.
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM-live/) [![LiberTEM-live](https://img.shields.io/github/stars/LiberTEM/LiberTEM-live?label=LiberTEM-live&style=social)](https://github.com/LiberTEM/LiberTEM-live/) is an extension module for LiberTEM that allows live data processing.
-- [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM-blobfinder/) [![LiberTEM-blobfinder](https://img.shields.io/github/stars/LiberTEM/LiberTEM-blobfinder?label=LiberTEM-blobfinder&style=social)](https://github.com/liberTEM/LiberTEM-blobfinder) is a package for correlation-based peak finding and strain mapping.
-- [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/app/holography.html) [![LiberTEM-holo](https://img.shields.io/github/stars/LiberTEM/LiberTEM-holo?label=LiberTEM-holo&style=social)](https://github.com/liberTEM/LiberTEM-holo/) Off-axis electron holography (WIP)
+- [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM-blobfinder/) [![LiberTEM-blobfinder](https://img.shields.io/github/stars/LiberTEM/LiberTEM-blobfinder?label=LiberTEM-blobfinder&style=social)](https://github.com/LiberTEM/LiberTEM-blobfinder) is a package for correlation-based peak finding and strain mapping.
+- [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/app/holography.html) [![LiberTEM-holo](https://img.shields.io/github/stars/LiberTEM/LiberTEM-holo?label=LiberTEM-holo&style=social)](https://github.com/LiberTEM/LiberTEM-holo/) Off-axis electron holography (WIP)
+- [![sparseconverter](https://img.shields.io/github/stars/LiberTEM/sparseconverter?label=sparseconverter&style=social)](https://github.com/LiberTEM/sparseconverter) Format detection, identifiers and converter matrix for a range of numerical array formats, focusing on sparse arrays.
 
 # Other projects that use LiberTEM
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://ptychography-4-0.github.io/ptychography/) [![Ptychography-4-0/Ptychography](https://img.shields.io/github/stars/Ptychography-4-0/ptychography?label=Ptychography-4-0/Ptychography&style=social)](https://github.com/Ptychography-4-0/ptychography/) Implementations for ptychography that result from the work of the Ptychography 4.0 project. Most notably, [this includes an implementation for Single Side Band ptychography that can process live data streams](https://ptychography-4-0.github.io/ptychography/algorithms.html#single-side-band).
@@ -37,4 +38,5 @@
 - [Gitter chat](https://gitter.im/LiberTEM/Lobby)
 - Dieter Weber <d.weber@fz-juelich.de>
 - Alexander Clausen <a.clausen@fz-juelich.de>
+- Matthew Bryan <matthew.bryan@cea.fr>
 - GitHub issue trackers, see repo links above!
