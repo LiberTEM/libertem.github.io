@@ -33,6 +33,34 @@
 
 [![Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography](https://user-images.githubusercontent.com/25689052/130770116-73a3eb34-a03f-4542-b8fa-8cacae61df51.png)](http://www.youtube.com/watch?v=6s_ewwgOhoI "Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography")
 
+# Acknowledgments
+
+See [Acknowlegments](acknowledgments)!
+
+# Funding
+
+<style>
+    .libertem-ack-item { display: flex; }
+    .libertem-ack-item img { display: block; }
+    .libertem-ack-item > a { flex-shrink: 0; display: block; padding-right: 20px; }
+</style>
+
+LiberTEM kindly acknowledges funding and support from the following sources:
+
+## ERC Proof-of-Concept grant VIDEO
+
+<div class="libertem-ack-item">
+
+<a href="https://cordis.europa.eu/project/id/780487">
+    <img alt="European Union flag" width="100" src="https://libertem.github.io/LiberTEM/_images/EU.jpg">
+</a>
+
+<p>
+This project has received funding from the European Research Council (ERC) under
+the European Union’s Horizon 2020 research and innovation programme (`grant
+agreement No 780487 <https://cordis.europa.eu/project/id/780487>`_).
+</p>
+</div>
 
 # Contact
 - [Gitter chat](https://gitter.im/LiberTEM/Lobby)
