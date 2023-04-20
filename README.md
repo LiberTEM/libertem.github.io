@@ -33,9 +33,9 @@
 
 [![Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography](https://user-images.githubusercontent.com/25689052/130770116-73a3eb34-a03f-4542-b8fa-8cacae61df51.png)](http://www.youtube.com/watch?v=6s_ewwgOhoI "Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography")
 
-# Acknowledgments
+# Acknowledgements
 
-See [Acknowlegments](/acknowledgments.html)!
+See [Acknowledgements](/acknowledgements.html)!
 
 # Funding
 
