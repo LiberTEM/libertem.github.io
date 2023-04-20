@@ -41,15 +41,20 @@ def main(project: List[click.Path], out: click.File):
 
     out.write("---\ntitle: Acknowledgements\n---\n")
 
+    out.write("## Jump to project")
+
     for p in project:
+        p_basename = os.path.basename(os.path.normpath(p))
+        out.write(f"- [{p_basename}](#{p_basename.lower()})")
+
+    for p in project:
+        p_basename = os.path.basename(os.path.normpath(p))
         creators = os.path.join(p, 'packaging', 'creators.json')
         with open(creators, "r") as f:
             creators_list = sorted(json.load(f), key=author)
         contributors = os.path.join(p, 'packaging', 'contributors.json')
         with open(contributors, 'r') as f:
             contributors_list = sorted(json.load(f), key=author)
-
-        p_basename = os.path.basename(os.path.normpath(p))
 
         out.write(f'# {p_basename}\n\n')
 
