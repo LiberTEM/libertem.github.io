@@ -30,6 +30,8 @@ jobs:
       - run: cat src/acknowledgements.md
 
       - uses: actions/jekyll-build-pages@v1
+        with:
+          source: src/
       - uses: actions/upload-pages-artifact@v1.0.8
 
   deploy:
