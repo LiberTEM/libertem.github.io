@@ -39,6 +39,8 @@ def main(project: List[click.Path], out: click.File):
     def author(d):
         return d['authorname']
 
+    out.write("---\ntitle: Acknowledgements\n---\n")
+
     for p in project:
         creators = os.path.join(p, 'packaging', 'creators.json')
         with open(creators, "r") as f:

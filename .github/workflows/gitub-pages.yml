@@ -23,6 +23,7 @@ jobs:
           cp README.md src/
       - run: python -m pip install click
       - run: python build.py --project LiberTEM --project LiberTEM-live --out src/acknowledgements.md
+      - run: cat src/acknowledgements.md
 
       - uses: actions/jekyll-build-pages@v1
       - uses: actions/upload-pages-artifact@v1.0.8
