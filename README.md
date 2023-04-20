@@ -42,7 +42,7 @@ See [Acknowledgements](/acknowledgements.html)!
 <style>
     .libertem-ack-item { display: flex; }
     .libertem-ack-item img { display: block; }
-    .libertem-ack-item > a, .libertem-ack-item > p { flex-shrink: 0; display: block; padding-right: 20px; }
+    .libertem-ack-item > a { flex-shrink: 0; display: block; padding-right: 20px; }
 </style>
 
 LiberTEM kindly acknowledges funding and support from the following sources:
@@ -93,14 +93,15 @@ research and innovation programme under <a href="https://www.esteem3.eu/">grant 
 
 <div class="libertem-ack-item">
 
-<p>
+<a href="https://cordis.europa.eu/project/id/856538">
 <img alt="European Union flag" width="100" src="/images/EU.jpg">
-</p>
+</a>
 
 <p>
 This project has received funding from the European Research Council (ERC) under
-the European Union’s Horizon 2020 research and innovation programme (grant
-agreement No 856538).
+the European Union’s Horizon 2020 research and innovation programme
+(<a href="https://cordis.europa.eu/project/id/856538"> grant
+agreement No 856538</a>).
 </p>
 </div>
 
@@ -123,9 +124,9 @@ Forschungszentrum Jülich in Germany.
 
 <div class="libertem-ack-item">
 
-<p>
+<a href="https://www.helmholtz.de/forschung/challenges/information-data-science/information-data-science-pilot-projekte/pilotprojekte-2/">
 <img alt="Helmholtz Gemeinschaft Deutscher Forschungszentren" width="100" src="/images/Helmholtz-lower.png">
-</p>
+</a>
 
 <p>
 We gratefully acknowledge funding from the <a href="https://www.helmholtz.de/forschung/challenges/information-data-science/information-data-science-pilot-projekte/pilotprojekte-2/">Information & Data Science Pilot
@@ -137,9 +138,9 @@ Project</a> "Ptychography 4.0" of the Helmholtz Association.
 
 <div class="libertem-ack-item">
 
-<p>
+<a href="https://summerofcode.withgoogle.com/">
 <img alt="Google Summer of Code logo" width="100" src="/images/GSoC-icon-192.png">
-</p>
+</a>
 
 <p>
 We kindly acknowledge funding from <a href="https://summerofcode.withgoogle.com/">Google Summer of Code 2019 and 2020
@@ -152,9 +153,9 @@ software foundation</a>.
 
 <div class="libertem-ack-item">
 
-<p>
+<a href="https://www.fz-juelich.de/SharedDocs/Meldungen/PORTAL/EN/2021/2021-06-24-AIDAS_en.html">
 <img alt="AIDAS" width="100" src="/images/AIDAS-logo.png">
-</p>
+</a>
 
 <p>
 LiberTEM development is supported by <a href="https://www.fz-juelich.de/SharedDocs/Meldungen/PORTAL/EN/2021/2021-06-24-AIDAS_en.html">AIDAS</a>
@@ -194,9 +195,9 @@ access to its infrastructure and administrative support.
 
 <div class="libertem-ack-item">
 
-<p>
+<a href="https://www.gatan.com/">
 <img alt="Gatan Inc." width="100" src="/images/Gatan-logo-vertical.png">
-</p>
+</a>
 
 <p>
 STEMx equipment and software for 4D STEM data acquisition with K2 IS camera
