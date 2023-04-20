@@ -11,6 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: actions/jekyll-build-pages@v1
+      - uses: actions/upload-pages-actifact@v1
 
   deploy:
     runs-on: ubuntu-latest
@@ -26,6 +27,6 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     
     steps:
-      - name: Deplot to GitHub Pages
+      - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
