@@ -57,8 +57,8 @@ LiberTEM kindly acknowledges funding and support from the following sources:
 
 <p>
 This project has received funding from the European Research Council (ERC) under
-the European Union’s Horizon 2020 research and innovation programme (`grant
-agreement No 780487 <https://cordis.europa.eu/project/id/780487>`_).
+the European Union’s Horizon 2020 research and innovation programme [grant
+agreement No 780487](https://cordis.europa.eu/project/id/780487).
 </p>
 </div>
 
