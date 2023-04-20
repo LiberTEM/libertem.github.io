@@ -52,7 +52,7 @@ LiberTEM kindly acknowledges funding and support from the following sources:
 <div class="libertem-ack-item">
 
 <a href="https://cordis.europa.eu/project/id/780487">
-    <img alt="European Union flag" width="100" src="https://libertem.github.io/LiberTEM/_images/EU.jpg">
+    <img alt="European Union flag" width="100" src="/images/EU.jpg">
 </a>
 
 <p>
