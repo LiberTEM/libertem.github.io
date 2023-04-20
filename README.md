@@ -40,3 +40,5 @@
 - Alexander Clausen <a.clausen@fz-juelich.de>
 - Matthew Bryan <matthew.bryan@cea.fr>
 - GitHub issue trackers, see repo links above!
+
+We thank all of our [authors and contributors!](https://libertem.github.io/acknowledgements.html)
