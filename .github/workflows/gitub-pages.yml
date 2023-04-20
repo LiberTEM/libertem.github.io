@@ -25,8 +25,7 @@ jobs:
       - run: python build.py --project LiberTEM --project LiberTEM-live --out src/acknowledgements.md
 
       - uses: actions/jekyll-build-pages@v1
-
-      - uses: actions/upload-pages-actifact@v1
+      - uses: actions/upload-pages-artifact@v1.0.8
 
   deploy:
     runs-on: ubuntu-latest
