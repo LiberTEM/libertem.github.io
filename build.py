@@ -24,6 +24,17 @@ def format_entry(a):
     return entry
 
 
+INTRO = """
+We are very grateful for your continuing support for LiberTEM!
+
+Please help us keeping these lists up-to-date and complete! If you feel that
+you should be listed here, please contact us or open a pull request.
+We are grateful for every contribution, and if your contribution
+is not listed here we'd like to extend our apologies and update
+this as soon as possible.
+"""
+
+
 @click.command()
 @click.option(
     '--project',
@@ -41,6 +52,8 @@ def main(project: List[click.Path], out: click.File):
 
     out.write("---\ntitle: Acknowledgements\n---\n")
 
+    out.write(INTRO)
+
     out.write("## Jump to project\n")
 
     for p in project:
@@ -57,10 +70,21 @@ def main(project: List[click.Path], out: click.File):
             contributors_list = sorted(json.load(f), key=author)
 
         out.write(f'# {p_basename}\n\n')
-
+        out.write('## Creators\n')
+        out.write(
+            'The following people in alphabetical order contributed to'
+            ' source code, documentation, design and management '
+            'following our [Authorship Policy]'
+            '(https://libertem.github.io/LiberTEM/authorship.html)\n\n'
+        )
         for c in creators_list:
             out.write(format_entry(c))
 
+        out.write('## Contributors\n')
+        out.write(
+            f'The following people in alphabetical order contributed to '
+            f'the {p_basename} project in other ways.\n\n'
+        )
         for c in contributors_list:
             out.write(format_entry(c))
 
