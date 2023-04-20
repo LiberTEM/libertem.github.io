@@ -61,6 +61,126 @@ the European Union’s Horizon 2020 research and innovation programme <a href="h
 </p>
 </div>
 
+## CritCat
+
+<div class="libertem-ack-item">
+
+<a href="http://www.critcat.eu/">
+    <img alt="European Union flag" width="100" src="/images/EU.jpg">
+</a>
+
+<p>
+This project has received funding from the European Union's Horizon 2020
+research and innovation programme under <a href="http://www.critcat.eu/">grant agreement No 686053</a>.
+</p>
+</div>
+
+## ESTEEM3
+
+<div class="libertem-ack-item">
+
+<a href="https://www.esteem3.eu/">
+    <img alt="European Union flag" width="100" src="/images/EU.jpg">
+</a>
+
+<p>
+This project has received funding from the European Union's Horizon 2020
+research and innovation programme under <a href="https://www.esteem3.eu/">grant agreement No 823717</a>.
+</p>
+</div>
+
+## ERC Synergy grant 3D MAGiC
+
+<div class="libertem-ack-item">
+
+<img alt="European Union flag" width="100" src="/images/EU.jpg">
+
+<p>
+This project has received funding from the European Research Council (ERC) under
+the European Union’s Horizon 2020 research and innovation programme (grant
+agreement No 856538).
+</p>
+</div>
+
+## moreSTEM
+
+<div class="libertem-ack-item">
+
+<a href="https://www.helmholtz.de/en/about-us/structure-and-governance/initiating-and-networking/">
+    <img alt="Helmholtz Gemeinschaft Deutscher Forschungszentren" width="100" src="/images/Helmholtz.png">
+</a>
+
+<p>
+We gratefully acknowledge funding from the <a href="https://www.helmholtz.de/en/about-us/structure-and-governance/initiating-and-networking/">Initiative and Networking Fund of
+the Helmholtz Association</a> within the <a href="https://morestem.fz-juelich.de/">Helmholtz Young Investigator Group moreSTEM</a> under Contract No. VH-NG-1317 at
+Forschungszentrum Jülich in Germany.
+</p>
+</div>
+
+## Ptychography 4.0
+
+<div class="libertem-ack-item">
+
+<img alt="Helmholtz Gemeinschaft Deutscher Forschungszentren" width="100" src="/images/Helmholtz-lower.png">
+
+<p>
+We gratefully acknowledge funding from the <a href="https://www.helmholtz.de/forschung/challenges/information-data-science/information-data-science-pilot-projekte/pilotprojekte-2/">Information & Data Science Pilot
+Project</a> "Ptychography 4.0" of the Helmholtz Association.
+</p>
+</div>
+
+## Google Summer of Code
+
+<div class="libertem-ack-item">
+
+<img alt="Google Summer of Code logo" width="100" src="/images/GSoC-icon-192.png">
+
+<p>
+We kindly acknowledge funding from <a href="https://summerofcode.withgoogle.com/">Google Summer of Code 2019 and 2020
+</a> under the <a href="https://python-gsoc.org/">umbrella of the Python
+software foundation</a>.
+</p>
+</div>
+
+## AIDAS
+
+<div class="libertem-ack-item">
+
+<img alt="AIDAS" width="100" src="/images/AIDAS-logo.png">
+
+<p>
+LiberTEM development is supported by <a href="https://www.fz-juelich.de/SharedDocs/Meldungen/PORTAL/EN/2021/2021-06-24-AIDAS_en.html">AIDAS</a>
+</p>
+</div>
+
+## Forschungszentrum Jülich, Ernst-Ruska Centrum
+
+<div class="libertem-ack-item">
+
+<a href="https://www.fz-juelich.de/er-c/EN/Home/home_node.html">
+<img alt="Forschungszentrum Jülich GmbH" width="100" src="/images/FZJ.jpg">
+</a>
+
+<p>
+Forschungszentrum Jülich is supporting LiberTEM with funding for personnel,
+access to its infrastructure and administrative support.
+</p>
+</div>
+
+# Industry partners
+
+## Gatan Inc.
+
+<div class="libertem-ack-item">
+
+<img alt="Gatan Inc." width="100" src="/images/Gatan-logo-vertical.png">
+
+<p>
+STEMx equipment and software for 4D STEM data acquisition with K2 IS camera
+courtesy of <a href="https://www.gatan.com/">Gatan Inc</a>.
+</p>
+</div>
+
 # Contact
 - [Gitter chat](https://gitter.im/LiberTEM/Lobby)
 - Dieter Weber <d.weber@fz-juelich.de>
