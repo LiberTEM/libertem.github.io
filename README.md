@@ -21,7 +21,7 @@
 - [Download a sample dataset](https://libertem.github.io/LiberTEM/sample_datasets.html)
 - [Install LiberTEM](https://libertem.github.io/LiberTEM/install.html) and [run the web GUI](https://libertem.github.io/LiberTEM/usage.html)
 - [Download examples](https://github.com/LiberTEM/LiberTEM/tree/master/examples) for Python API usage
-- [Install LiberTEM-live](https://libertem.github.io/LiberTEM-live/#installation) for live data processing and [see example usage](https://libertem.github.io/LiberTEM-live/merlin.html)
+- [Install LiberTEM-live](https://libertem.github.io/LiberTEM-live/#installation) for live data processing and [see example usage](https://libertem.github.io/LiberTEM-live/examples.html)
 
 # Citing
 
