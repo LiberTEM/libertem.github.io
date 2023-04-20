@@ -41,11 +41,11 @@ def main(project: List[click.Path], out: click.File):
 
     out.write("---\ntitle: Acknowledgements\n---\n")
 
-    out.write("## Jump to project")
+    out.write("## Jump to project\n")
 
     for p in project:
         p_basename = os.path.basename(os.path.normpath(p))
-        out.write(f"- [{p_basename}](#{p_basename.lower()})")
+        out.write(f"- [{p_basename}](#{p_basename.lower()})\n")
 
     for p in project:
         p_basename = os.path.basename(os.path.normpath(p))
