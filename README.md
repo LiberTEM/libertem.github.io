@@ -23,15 +23,27 @@
 - [Download examples](https://github.com/LiberTEM/LiberTEM/tree/master/examples) for Python API usage
 - [Install LiberTEM-live](https://libertem.github.io/LiberTEM-live/#installation) for live data processing and [see example usage](https://libertem.github.io/LiberTEM-live/merlin.html)
 
+# Citing
+
+To help us spread the word, please credit and cite LiberTEM in publications where it has been significant.
+Resources for citing LiberTEM are linked through the links or DOI badges below.
+
+- [LiberTEM: Software platform for scalable multidimensional data processing in transmission electron microscopy](https://joss.theoj.org/papers/10.21105/joss.02006)
+- LiberTEM [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1477847.svg)](https://doi.org/10.5281/zenodo.1477847)
+- LiberTEM-live [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4916315.svg)](https://doi.org/10.5281/zenodo.4916315)
+- LiberTEM-blobfinder [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3663436.svg)](https://doi.org/10.5281/zenodo.3663436)
 
 # Publications
-- [LiberTEM: Software platform for scalable multidimensional data processing in transmission electron microscopy](https://joss.theoj.org/papers/10.21105/joss.02006)
+
 - [Live processing of momentum-resolved STEM data for first moment imaging and ptychography](https://arxiv.org/abs/2106.13457)
 - [Next-Generation Information Technology Systems for Fast Detectors in Electron Microscopy](https://arxiv.org/abs/2003.11332)
+- [Wigner Distribution Deconvolution Adaptation for Live Ptychography Reconstruction](https://doi.org/10.1093/micmic/ozad021)
 
 # Other media
 
 [![Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography](https://user-images.githubusercontent.com/25689052/130770116-73a3eb34-a03f-4542-b8fa-8cacae61df51.png)](http://www.youtube.com/watch?v=6s_ewwgOhoI "Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography")
+
+- [One million frames per second](https://www.linkedin.com/posts/amscins_mc2023-onemilliionframespersecond-asi-activity-7036667314695467008-kVvW?utm_source=share&utm_medium=member_desktop)
 
 # Acknowledgements
 
