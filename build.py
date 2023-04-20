@@ -25,6 +25,8 @@ def format_entry(a):
 
 
 INTRO = """
+# Acknowledgements
+
 We are very grateful for your continuing support for LiberTEM!
 
 Please help us keeping these lists up-to-date and complete! If you feel that
@@ -69,8 +71,8 @@ def main(project: List[click.Path], out: click.File):
         with open(contributors, 'r') as f:
             contributors_list = sorted(json.load(f), key=author)
 
-        out.write(f'# {p_basename}\n\n')
-        out.write('## Creators\n')
+        out.write(f'## {p_basename}\n\n')
+        out.write('### Creators\n')
         out.write(
             'The following people in alphabetical order contributed to'
             ' source code, documentation, design and management '
