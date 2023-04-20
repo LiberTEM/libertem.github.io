@@ -62,6 +62,8 @@ def main(project: List[click.Path], out: click.File):
         p_basename = os.path.basename(os.path.normpath(p))
         out.write(f"- [{p_basename}](#{p_basename.lower()})\n")
 
+    out.write('\n\n')
+
     for p in project:
         p_basename = os.path.basename(os.path.normpath(p))
         creators = os.path.join(p, 'packaging', 'creators.json')
