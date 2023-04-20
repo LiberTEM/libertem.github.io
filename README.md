@@ -33,16 +33,16 @@
 
 [![Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography](https://user-images.githubusercontent.com/25689052/130770116-73a3eb34-a03f-4542-b8fa-8cacae61df51.png)](http://www.youtube.com/watch?v=6s_ewwgOhoI "Live Processing of Momentum-Resolved STEM Data for First Moment Imaging and Ptychography")
 
-# Acknowledgments
+# Acknowledgements
 
-See [Acknowlegments](acknowledgments)!
+See [Acknowledgements](/acknowledgements.html)!
 
 # Funding
 
 <style>
     .libertem-ack-item { display: flex; }
     .libertem-ack-item img { display: block; }
-    .libertem-ack-item > a { flex-shrink: 0; display: block; padding-right: 20px; }
+    .libertem-ack-item > a, .libertem-ack-item > p { flex-shrink: 0; display: block; padding-right: 20px; }
 </style>
 
 LiberTEM kindly acknowledges funding and support from the following sources:
@@ -93,7 +93,9 @@ research and innovation programme under <a href="https://www.esteem3.eu/">grant 
 
 <div class="libertem-ack-item">
 
+<p>
 <img alt="European Union flag" width="100" src="/images/EU.jpg">
+</p>
 
 <p>
 This project has received funding from the European Research Council (ERC) under
@@ -121,7 +123,9 @@ Forschungszentrum Jülich in Germany.
 
 <div class="libertem-ack-item">
 
+<p>
 <img alt="Helmholtz Gemeinschaft Deutscher Forschungszentren" width="100" src="/images/Helmholtz-lower.png">
+</p>
 
 <p>
 We gratefully acknowledge funding from the <a href="https://www.helmholtz.de/forschung/challenges/information-data-science/information-data-science-pilot-projekte/pilotprojekte-2/">Information & Data Science Pilot
@@ -133,7 +137,9 @@ Project</a> "Ptychography 4.0" of the Helmholtz Association.
 
 <div class="libertem-ack-item">
 
+<p>
 <img alt="Google Summer of Code logo" width="100" src="/images/GSoC-icon-192.png">
+</p>
 
 <p>
 We kindly acknowledge funding from <a href="https://summerofcode.withgoogle.com/">Google Summer of Code 2019 and 2020
@@ -146,7 +152,9 @@ software foundation</a>.
 
 <div class="libertem-ack-item">
 
+<p>
 <img alt="AIDAS" width="100" src="/images/AIDAS-logo.png">
+</p>
 
 <p>
 LiberTEM development is supported by <a href="https://www.fz-juelich.de/SharedDocs/Meldungen/PORTAL/EN/2021/2021-06-24-AIDAS_en.html">AIDAS</a>
@@ -173,7 +181,9 @@ access to its infrastructure and administrative support.
 
 <div class="libertem-ack-item">
 
+<p>
 <img alt="Gatan Inc." width="100" src="/images/Gatan-logo-vertical.png">
+</p>
 
 <p>
 STEMx equipment and software for 4D STEM data acquisition with K2 IS camera
