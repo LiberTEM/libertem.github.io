@@ -161,6 +161,19 @@ LiberTEM development is supported by <a href="https://www.fz-juelich.de/SharedDo
 </p>
 </div>
 
+## Joint Lab MDMC
+
+<div class="libertem-ack-item">
+
+<a href="https://jl-mdmc-helmholtz.de/">
+<img alt="MDMC" width="100" src="/images/cropped-MDMC-logo5.jpg">
+</a>
+
+<p>
+LiberTEM development is part of the <a href="https://jl-mdmc-helmholtz.de/">Joint Lab MDMC.</a>
+</p>
+</div>
+
 ## Forschungszentrum Jülich, Ernst-Ruska Centrum
 
 <div class="libertem-ack-item">
@@ -188,6 +201,97 @@ access to its infrastructure and administrative support.
 <p>
 STEMx equipment and software for 4D STEM data acquisition with K2 IS camera
 courtesy of <a href="https://www.gatan.com/">Gatan Inc</a>.
+</p>
+</div>
+
+## Quantum Detectors
+
+<div class="libertem-ack-item">
+
+<a href="https://quantumdetectors.com/">
+<img alt="Quantum Detectors" width="100" src="/images/QD.svg">
+</a>
+
+<p>
+We thank Quantum Detectors for their help in implementing support for their cameras and file formats.
+</p>
+</div>
+
+## DECTRIS
+
+<div class="libertem-ack-item">
+
+<a href="https://www.dectris.com/">
+<img alt="DECTRIS logo" width="100" src="/images/dectris_dtf_logo.svg">
+</a>
+
+<p>
+We thank DECTRIS for their help in implementing support for their cameras and file formats, outreach, and for providing access to prototypes.
+</p>
+</div>
+
+## Amsterdam Scientific Instruments
+
+<div class="libertem-ack-item">
+
+<a href="https://www.amscins.com/">
+<img alt="Amsterdam Scientific Instruments logo" width="100" src="/images/asi-logo_nobg.png">
+</a>
+
+<p>
+We thank Amsterdam Scientific Instruments for their help in implementing support for their cameras and file formats, co-developing practical 4D STEM support with event-based detectors, outreach, and for providing access to prototypes.
+</p>
+</div>
+
+## CEOS
+
+<div class="libertem-ack-item">
+
+<a href="https://www.ceos-gmbh.de/">
+<img alt="CEOS logo" width="100" src="/images/CEOS.png">
+</a>
+
+<p>
+We thank CEOS for cooperation regarding instrument control and live data processing.
+</p>
+</div>
+
+## TVIPS
+
+<div class="libertem-ack-item">
+
+<a href="https://www.tvips.com/">
+<img alt="TVIPS logo" width="100" src="/images/TVIPS.png">
+</a>
+
+<p>
+We thank TVIPS for cooperation regarding instrument control and support for their file formats.
+</p>
+</div>
+
+## Direct Electron
+
+<div class="libertem-ack-item">
+
+<a href="https://directelectron.com/">
+<img alt="Direct Electron" width="100" src="/images/DE-logo.png">
+</a>
+
+<p>
+We thank Direct Electron for their help in implementing support for their cameras and file formats.
+</p>
+</div>
+
+## X-Spectrum
+
+<div class="libertem-ack-item">
+
+<a href="https://x-spectrum.de/">
+<img alt="X-Spectrum" width="100" src="/images/X-Spectrum-RGB.png">
+</a>
+
+<p>
+We thank X-Spectrum for their help in implementing support for their cameras and file formats.
 </p>
 </div>
 
