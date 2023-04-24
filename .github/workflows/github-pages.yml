@@ -20,6 +20,10 @@ jobs:
           path: LiberTEM-live
       - uses: actions/checkout@v3
         with:
+          repository: LiberTEM/LiberTEM-blobfinder
+          path: LiberTEM-blobfinder
+      - uses: actions/checkout@v3
+        with:
           repository: LiberTEM/LiberTEM
           path: LiberTEM
 
@@ -27,7 +31,7 @@ jobs:
           mkdir -p src
           cp README.md src/
       - run: python -m pip install click
-      - run: python build.py --project LiberTEM --project LiberTEM-live --out src/acknowledgements.md
+      - run: python build.py --project LiberTEM --project LiberTEM-live --project LiberTEM-blobfinder --out src/acknowledgements.md
       - run: cat src/acknowledgements.md
 
       - uses: actions/jekyll-build-pages@v1
