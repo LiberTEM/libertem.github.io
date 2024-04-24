@@ -8,6 +8,7 @@
 
 # Other projects that use LiberTEM
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://ptychography-4-0.github.io/ptychography/) [![Ptychography-4-0/Ptychography](https://img.shields.io/github/stars/Ptychography-4-0/ptychography?label=Ptychography-4-0/Ptychography&style=social)](https://github.com/Ptychography-4-0/ptychography/) Implementations for ptychography that result from the work of the Ptychography 4.0 project. Most notably, [this includes an implementation for Single Side Band ptychography that can process live data streams](https://ptychography-4-0.github.io/ptychography/algorithms.html#single-side-band).
+- [![Microscope-Calibration](https://img.shields.io/github/stars/LiberTEM/Microscope-Calibration?label=Microscope-Calibration&style=social)](https://github.com/LiberTEM/Microscope-Calibration) Tools to calibrate a microscope
 
 # Applications
 
