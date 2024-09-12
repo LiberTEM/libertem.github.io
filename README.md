@@ -1,3 +1,34 @@
+# About LiberTEM
+
+LiberTEM is an open source platform for high-throughput distributed
+processing of electron microscopy datasets. Written primarily in Python,
+it is capable of processing live data streams, processing offline data
+interactively, and providing a computation engine for other libraries.
+The library allows a user to explore the vast, diverse landscape of interesting
+features which are revealed in electron microscope imagery.
+
+Advanced analyses like ptychography, strain mapping
+or phase and orientation mapping require the acquisition and processing of large
+amounts of data. In the past this would take hours, but high-speed
+imaging detectors for electrons that became available from 2014 onwards
+created the potential to perform such analyses interactively in
+real time, as is already the case in conventional microscopy.
+
+However, the software available at the time was fundamentally not
+capable of processing data at the rate these new detectors produced it.
+That's why we started the LiberTEM project: to leverage the full potential of
+high-speed imaging detectors in electron microscopy and other fields, and
+make it possible to apply advanced computational imaging techniques
+in real time. This opens the possibility to control microscopes with closed-loop
+feedback, and of course to process huge datasets that modern
+detectors can acquire, offline.
+
+LiberTEM is split into several sub-projects: the processing engine, an
+interactive web interface that is currently packaged with the processing
+engine, live data processing infrastructure, several
+application-specific packages, and spin-off packages with more general
+application such as `sparseconverter`.
+
 # LiberTEM projects
 
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/) [![LiberTEM](https://img.shields.io/github/stars/LiberTEM/LiberTEM?label=LiberTEM&style=social)](https://github.com/liberTEM/LiberTEM/) **LiberTEM** is an open source platform for high-throughput distributed processing of large-scale binary data sets and live data streams using a modified MapReduce programming model.
