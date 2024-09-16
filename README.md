@@ -29,6 +29,8 @@ engine, live data processing infrastructure, several
 application-specific packages, and spin-off packages with more general
 application such as `sparseconverter`.
 
+[![JuRSE Code Pick](https://img.shields.io/badge/JuRSE_Code_Pick-Sept_2024-blue)](https://www.fz-juelich.de/en/rse/jurse-community/jurse-code-of-the-month/september-2024)
+
 # LiberTEM projects
 
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/) [![LiberTEM](https://img.shields.io/github/stars/LiberTEM/LiberTEM?label=LiberTEM&style=social)](https://github.com/liberTEM/LiberTEM/) **LiberTEM** is an open source platform for high-throughput distributed processing of large-scale binary data sets and live data streams using a modified MapReduce programming model.
