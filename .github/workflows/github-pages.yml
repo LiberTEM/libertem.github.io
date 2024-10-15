@@ -42,7 +42,7 @@ jobs:
       - uses: actions/jekyll-build-pages@v1
         with:
           source: src/
-      - uses: actions/upload-pages-artifact@v1.0.8
+      - uses: actions/upload-pages-artifact@v3.0.1
 
   deploy:
     runs-on: ubuntu-latest
