@@ -13,20 +13,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           repository: LiberTEM/LiberTEM-live
           path: LiberTEM-live
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: LiberTEM/LiberTEM-blobfinder
           path: LiberTEM-blobfinder
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: LiberTEM/LiberTEM-holo
           path: LiberTEM-holo
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: LiberTEM/LiberTEM
           path: LiberTEM
