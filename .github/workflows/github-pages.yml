@@ -34,8 +34,9 @@ jobs:
       - run: |
           mkdir -p src
           cp README.md src/
-      - run: python -m pip install click
-      - run: python build.py --project LiberTEM --project LiberTEM-live --project LiberTEM-blobfinder --project LiberTEM-holo --out src/acknowledgements.md
+      - run: python -m venv venv
+      - run: ./venv/bin/pip install click
+      - run: ./venv/bin/python build.py --project LiberTEM --project LiberTEM-live --project LiberTEM-blobfinder --project LiberTEM-holo --out src/acknowledgements.md
       - run: cat src/acknowledgements.md
 
       - uses: actions/jekyll-build-pages@v1
