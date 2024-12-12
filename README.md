@@ -36,7 +36,7 @@ application such as `sparseconverter`.
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/) [![LiberTEM](https://img.shields.io/github/stars/LiberTEM/LiberTEM?label=LiberTEM&style=social)](https://github.com/liberTEM/LiberTEM/) **LiberTEM** is an open source platform for high-throughput distributed processing of large-scale binary data sets and live data streams using a modified MapReduce programming model.
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM-live/) [![LiberTEM-live](https://img.shields.io/github/stars/LiberTEM/LiberTEM-live?label=LiberTEM-live&style=social)](https://github.com/LiberTEM/LiberTEM-live/) is an extension module for LiberTEM that allows live data processing.
 - [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM-blobfinder/) [![LiberTEM-blobfinder](https://img.shields.io/github/stars/LiberTEM/LiberTEM-blobfinder?label=LiberTEM-blobfinder&style=social)](https://github.com/LiberTEM/LiberTEM-blobfinder) is a package for correlation-based peak finding and strain mapping.
-- [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM/app/holography.html) [![LiberTEM-holo](https://img.shields.io/github/stars/LiberTEM/LiberTEM-holo?label=LiberTEM-holo&style=social)](https://github.com/LiberTEM/LiberTEM-holo/) Off-axis electron holography (WIP)
+- [![docs](https://img.shields.io/badge/%F0%9F%95%AE-docs-green)](https://libertem.github.io/LiberTEM-holo/) [![LiberTEM-holo](https://img.shields.io/github/stars/LiberTEM/LiberTEM-holo?label=LiberTEM-holo&style=social)](https://github.com/LiberTEM/LiberTEM-holo/) Off-axis electron holography (WIP)
 - [![sparseconverter](https://img.shields.io/github/stars/LiberTEM/sparseconverter?label=sparseconverter&style=social)](https://github.com/LiberTEM/sparseconverter) Format detection, identifiers and converter matrix for a range of numerical array formats, focusing on sparse arrays.
 - [![Microscope-Calibration](https://img.shields.io/github/stars/LiberTEM/Microscope-Calibration?label=Microscope-Calibration&style=social)](https://github.com/LiberTEM/Microscope-Calibration) Tools to calibrate a microscope
 
@@ -49,7 +49,7 @@ application such as `sparseconverter`.
 - [Amorphous materials](https://libertem.github.io/LiberTEM/app/amorphous.html)
 - [Strain mapping](https://libertem.github.io/LiberTEM-blobfinder/examples.html)
 - [Phase change materials](https://libertem.github.io/LiberTEM/app/phasechange.html)
-- [Off-axis electron holography](https://libertem.github.io/LiberTEM/app/holography.html)
+- [Off-axis electron holography](https://libertem.github.io/LiberTEM-holo/)
 
 # Try it out
 - [Download a sample dataset](https://libertem.github.io/LiberTEM/sample_datasets.html)
